@@ -7,3 +7,5 @@ Vue project using TypeScript and no vue files. Hot module reload is working with
 File structure:
 
 ![Preview](https://github.com/JDrechsler/Vue-TypeScript-No-vue-files-HMR/blob/master/2018-03-08%2016\_18\_02-Cards.ts%20-%20tsonlyclass%20-%20Visual%20Studio%20Code.png?raw=true)
+
+![Preview App](https://github.com/JDrechsler/Vue-TypeScript-No-vue-files-HMR/blob/master/preview.png?raw=true)
